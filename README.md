@@ -4,7 +4,7 @@
 <div>
   <b id="styled-text" class="heading__name">AMIT DHAKAD</b>
 </div>
-
+<!--
 <style>
   /* Style for the <b> element */
   .heading__name {
@@ -75,7 +75,7 @@
 .image-container:hover .zoom-image::before {
   opacity: 1;
 }
-
+ -->
 
 </style>
 </h1>
@@ -143,8 +143,8 @@ Let's embark on a digital adventure together and unlock the mysteries of the dig
 <div >
   <img class="zoom-image" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-dhakad&theme=react&hide_border=true">
 </div>
-<!--
-   <img height="50%" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-dhakad&theme=react&show_icons=true&hide_border=true&layout=compact"> -->
+
+   <img height="50%" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-dhakad&theme=react&show_icons=true&hide_border=true&layout=compact">
 
   <br>
   <br>
