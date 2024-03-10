@@ -128,9 +128,8 @@ Let's embark on a digital adventure together and unlock the mysteries of the dig
 ## My Statistics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/amit-dhakad/amit-dhakad/blob/output/github-contribution-grid-snake.gif">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg](https://github.com/amit-dhakad/amit-dhakad/blob/output/github-contribution-grid-snake.gif)">
 </picture>
 
 <br/>
